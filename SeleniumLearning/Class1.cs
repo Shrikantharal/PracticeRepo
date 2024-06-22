@@ -13,6 +13,7 @@ namespace SeleniumLearning
        public  void firstMethod()
         {
             TestContext.Progress.WriteLine("Shrikant is genius ");
+            TestContext.Progress.WriteLine("This is added in Second Branch");
         }
     }
 }
