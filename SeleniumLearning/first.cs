@@ -9,5 +9,6 @@ public class Class1
 		Console.WriteLine("Changes made by FeatureOne after commiting feature two");
 
 		Console.WriteLine("Changes made at fetaure One");
+		Console.WriteLine("Second commit");
 	}
 }
