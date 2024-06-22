@@ -16,6 +16,9 @@ namespace SeleniumLearning
             TestContext.Progress.WriteLine("Changes Made in Feature branch two");
 
             TestContext.Progress.WriteLine("This change is being made in Feature branch two before committing feature branch one");
+
+
+            TestContext.Progress.WriteLine("After commiting this second commit");
         }
     }
 }
