@@ -19,6 +19,8 @@ namespace SeleniumLearning
 
 
             TestContext.Progress.WriteLine("After commiting this second commit");
+
+            TestContext.Progress.WriteLine("Changes Made at Feature Two");
         }
     }
 }
