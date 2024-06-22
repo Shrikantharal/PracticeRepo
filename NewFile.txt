@@ -2,4 +2,6 @@ Hello this is from Feature branch.
 
 Added this line at remote.
 
+Added this at featureOne to check Conflicts.
+
 Added at remote to check conflicts
