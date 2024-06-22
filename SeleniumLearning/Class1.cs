@@ -13,7 +13,7 @@ namespace SeleniumLearning
        public  void firstMethod()
         {
             TestContext.Progress.WriteLine("CHeck ");
-            TestContext.Progress.WriteLine("This is added in Second Branch");
+            TestContext.Progress.WriteLine("Changes Made in Feature branch two");
         }
     }
 }
