@@ -10,5 +10,6 @@ public class Class1
 
 		Console.WriteLine("Changes made at fetaure One");
 		Console.WriteLine("Second commit");
+		Console.WriteLine("Changed made at feature one after taking latest master");
 	}
 }
